@@ -1,4 +1,8 @@
 development:
   password: b6dc82cb6bbb11da4eaa4a666fefaf2d
-  theme_id: "16646275133"
+  theme_id: "16646373437"
+  store: rebel-beaches.myshopify.com
+production:
+  password: b6dc82cb6bbb11da4eaa4a666fefaf2d
+  theme_id: "live"
   store: rebel-beaches.myshopify.com
